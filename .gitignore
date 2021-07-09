@@ -1,14 +1,7 @@
 # .gitignore
 # file 명
 # directory/ 
-model
 images
-handwriting_shape
-hard_handwriting_shape
-dogs-vs-cats
-preview
-trashbags
-pictures
 del_img
 models
 
