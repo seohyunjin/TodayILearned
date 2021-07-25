@@ -1,15 +1,19 @@
 # .gitignore
 # file 명
-# directory/ 
+## directory/ 
+
+#TeamPJ
 images
 del_img
 models
 
-
 etriaikey.txt
 kakaoapikey.txt
 
-# Byte-compiled / optimized / DLL files
+#TeamComplete
+data
+
+## Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class

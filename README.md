@@ -5,5 +5,7 @@
 - web cam real time mosaic
 - video celebrity mosaic
 
-## 
+## TeamComplete 21.05~ 07
+:weather & food analysis
+- lightgbm
 
