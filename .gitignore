@@ -2,16 +2,31 @@
 # file 명
 ## directory/ 
 
-#TeamPJ
+#TeamDelU
 images
 del_img
 models
 
 etriaikey.txt
 kakaoapikey.txt
+chromedriver.exe
+data
 
 #TeamComplete
-data
+
+
+#TeamRiiiiice
+img
+crawling_Data
+crawling_rawdata
+code
+
+#TIL
+
+
+
+
+
 
 ## Byte-compiled / optimized / DLL files
 __pycache__/
