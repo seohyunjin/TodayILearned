@@ -4,6 +4,7 @@
 -01. nltk
   -  NLP (natural language process)
   -  text_analysis
+
 -02. crawling
   - naver cafe title crawling
 
