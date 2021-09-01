@@ -4,6 +4,7 @@
 -01. nltk
   -  NLP (natural language process)
   -  text_analysis
+  -  colab_mecab_dictionary+
 
 -02. crawling
   - naver cafe title crawling
@@ -24,3 +25,4 @@
 - okt_wordcloud with COLAB
 - rice_reviewtrend_seasonality
 - naver_cafe_frequency - freqDist plot graph
+- 
