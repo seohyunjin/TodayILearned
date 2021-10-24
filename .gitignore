@@ -2,14 +2,23 @@
 # file 명
 ## directory/ 
 
+#all
+practice
+chromedriver.exe
+data
+
+#api key
+naverapikey.txt
+etriaikey.txt
+kakaoapikey.txt
+chromedriver.exe
+
 #TeamDelU
 images
 del_img
 models
 
-etriaikey.txt
-kakaoapikey.txt
-chromedriver.exe
+
 data
 
 #TeamComplete
@@ -17,9 +26,29 @@ data
 
 #TeamRiiiiice
 img
+code
+result_category_freq 
+
+#작업한 데이터
+coupang_data_crawling
+egn_data
+preprocessing_cnts_dropna_data
+preprocessing_data
+train_data
+test_data
+result
+module
 crawling_Data
 crawling_rawdata
-code
+total_crawl_data
+result_alldayscrawl
+cou-lstm
+cou-hyun_lstm
+pred_data
+
+
+#환경
+spell_pyhanspell
 
 #TIL
 
