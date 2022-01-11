@@ -1,13 +1,17 @@
 # TodayILearned
 
 ## TIL (study)
--01. nltk
-  -  NLP (natural language process)
-  -  text_analysis
-  -  colab_mecab_dictionary+
+-01_NLP (natural language process)
+  - hanspell+hannanum
+  - konlpy
+  - mecab 감성분석
+  - nltk_nlp
+  - text_analysis
+  -  soynlp
 
--02. crawling
+-02_crawling
   - naver cafe title crawling
+  - naver cafe contents crawling_func
 
 
 ## TeamDelU 21.07.08~21.07.14
@@ -25,4 +29,8 @@
 - okt_wordcloud with COLAB
 - rice_reviewtrend_seasonality
 - naver_cafe_frequency - freqDist plot graph
-- 
+
+## TeamAww 21.10.01~21.10.25
+: to reduce the crime rate
+- crime_rate(서울시 구별 범죄 발생량)
+- naver news crawling
